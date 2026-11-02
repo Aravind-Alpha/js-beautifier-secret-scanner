@@ -5,9 +5,6 @@
 A self-contained Burp Suite extension that:
 
 
-
-\- \*\*beautifies JavaScript\*\* with the real \[js-beautify 1.15.1](https://github.com/beautifier/js-beautify) engine (the same library used by beautifier.io),
-
 \- \*\*highlights hardcoded secrets\*\* — API keys, AES keys/IVs, Basic-auth credentials, JWTs, private keys, bearer tokens, and risky JavaScript sinks, and
 
 \- \*\*passively audits\*\* in-scope JavaScript plus observed HTTP history for correlated logic, CORS, cookie, header, caching, response-exposure, and \*\*cloud-storage/SAS findings\*\* (Azure Blob SAS, AWS S3 presigned URLs, Google Cloud Storage signed URLs).
